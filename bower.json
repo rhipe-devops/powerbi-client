@@ -1,0 +1,25 @@
+{
+  "name": "powerbi-client",
+  "version": "2.1.0",
+  "description": "JavaScript library for embedding Power BI into your apps.",
+  "author": ["Microsoft PowerBI Team"],
+  "license": "MIT",
+  "keywords": [
+    "powerbi"
+  ],
+  "ignore": [
+    "test",
+    "*.",
+    "karma.conf.js",
+    "Gruntfile.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rhipe-devops/powerbi-client.git"
+  },
+  "main": [
+    "dist/powerbi.js"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
